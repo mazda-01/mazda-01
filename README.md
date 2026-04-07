@@ -1,11 +1,21 @@
 <h1 align="center">Привет, я Дмитрий 👋</h1>
-<h3 align="center">ML Engineer · LLM & Agents · RAG Systems · Computer Vision</h3>
+<h3 align="center">Строю LLM-агентов, RAG-системы и CV-сервисы · Ищу первую позицию в ML/AI</h3>
 
-<br/>
+<p align="center">
+  <a href="https://t.me/st1z11">
+    <img src="https://img.shields.io/badge/Telegram-@st1z11-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:mazda.pavlov01@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-mazda.pavlov01@yandex.ru-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Статус-открыт_к_офферам-brightgreen?style=flat" />
+</p>
+
+---
 
 ## 🧠 О себе
 
-ML-инженер. Прошёл интенсивный буткемп по Data Science, до этого — почти 4 года в армии, участник СВО. Сейчас строю карьеру в AI/ML.
+ML-инженер без коммерческого опыта, но с реальными проектами. Прошёл fulltime Data Science буткемп в Эльбрус (5 месяцев). До этого — почти 4 года военной службы, участник СВО, 3 государственные награды. Умею работать в условиях давления и неопределённости. Интересуют задачи на стыке LLM-агентов и продакшн-деплоя.
 
 ---
 
@@ -43,7 +53,9 @@ ML-инженер. Прошёл интенсивный буткемп по Data 
 
 ---
 
-## 📬 Контакты
+## 📊 Статистика
 
-[![Telegram](https://img.shields.io/badge/Telegram-@st1z11-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/st1z11)
-[![Email](https://img.shields.io/badge/Email-mazda.pavlov01@yandex.ru-red?style=flat&logo=gmail&logoColor=white)](mailto:mazda.pavlov01@yandex.ru)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mazda-01&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&custom_title=GitHub%20Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazda-01&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</p>
