@@ -15,7 +15,7 @@ ML-инженер. Прошёл интенсивный буткемп по Data 
 |---|---|---|
 | [Multiagents-system](https://github.com/mazda-01/Multiagents-system) | Text2SQL сервис: чат с PostgreSQL на естественном языке через LangGraph-агентов | FastAPI · LangGraph · Qdrant · Next.js |
 | [case_from_loymax](https://github.com/mazda-01/case_from_loymax) | End-to-end RAG по русскоязычной базе знаний RuBQ 2.0 с Docker Compose и тестами | FastAPI · Qdrant · LaBSE · pytest |
-| [FastAPI](https://github.com/mazda-01/FastAPI) | RAG + CV сервис: поиск по документам и детекция объектов | FastAPI · Streamlit · Qdrant · YOLO |
+| [AI-Real-Estate-Assistant](https://github.com/mazda-01/AI-Real-Estate-Assistant) | RAG + CV сервис: поиск по документам и детекция объектов | FastAPI · Streamlit · Qdrant · YOLO |
 | [find-my-show](https://github.com/mazda-01/find-my-show) | Умный поиск сериалов по описанию на естественном языке | Python · Embeddings · Streamlit |
 
 ---
