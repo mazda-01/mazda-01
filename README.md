@@ -1,61 +1,24 @@
-<h1 align="center">Привет, я Дмитрий 👋</h1>
-<h3 align="center">Строю LLM-агентов, RAG-системы и CV-сервисы · Ищу первую позицию в ML/AI</h3>
-
-<p align="center">
-  <a href="https://t.me/st1z11">
-    <img src="https://img.shields.io/badge/Telegram-@st1z11-2CA5E0?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:mazda.pavlov01@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-mazda.pavlov01@yandex.ru-red?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Статус-открыт_к_офферам-brightgreen?style=flat" />
-</p>
-
----
-
-## 🧠 О себе
-
+# 💫 About Me:
 ML-инженер без коммерческого опыта, но с реальными проектами. Прошёл fulltime Data Science буткемп в Эльбрус (5 месяцев). До этого — почти 4 года военной службы, участник СВО, 3 государственные награды. Умею работать в условиях давления и неопределённости. Интересуют задачи на стыке LLM-агентов и продакшн-деплоя.
 
----
 
-## 🚀 Проекты
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mazda.pavlov01@yandex.ru) 
 
-| Проект | Описание | Стек |
-|---|---|---|
-| [Multiagents-system](https://github.com/mazda-01/Multiagents-system) | Text2SQL сервис: чат с PostgreSQL на естественном языке через LangGraph-агентов | FastAPI · LangGraph · Qdrant · Next.js |
-| [case_from_loymax](https://github.com/mazda-01/case_from_loymax) | End-to-end RAG по русскоязычной базе знаний RuBQ 2.0 с Docker Compose и тестами | FastAPI · Qdrant · LaBSE · pytest |
-| [AI-Real-Estate-Assistant](https://github.com/mazda-01/AI-Real-Estate-Assistant) | RAG + CV сервис: поиск по документам и детекция объектов | FastAPI · Streamlit · Qdrant · YOLO |
-| [find-my-show](https://github.com/mazda-01/find-my-show) | Умный поиск сериалов по описанию на естественном языке | Python · Embeddings · Streamlit |
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mazda-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mazda-01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mazda-01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mazda-01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠 Стек
-
-**LLM & RAG**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)
-![vLLM](https://img.shields.io/badge/vLLM-gray?style=flat)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=flat)
-
-**CV & DL**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logoColor=black)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat&logo=nvidia&logoColor=white)
-
-**Инфраструктура**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mazda-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mazda-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Статистика
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mazda-01&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&custom_title=GitHub%20Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazda-01&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
